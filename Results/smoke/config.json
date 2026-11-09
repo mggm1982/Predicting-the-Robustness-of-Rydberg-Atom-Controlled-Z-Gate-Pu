@@ -1,0 +1,1 @@
+{"PRESET": "realistic", "QUICK": true, "GAMMA": 0.00039, "SIG_E": 0.008, "SIG_D": 0.0163, "N_TRAIN": 600, "N_CAL": 300, "N_TEST": 600, "N_POOL": 4000}

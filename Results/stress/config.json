@@ -1,0 +1,1 @@
+{"PRESET": "stress", "QUICK": false, "GAMMA": 0.00039, "SIG_E": 0.08, "SIG_D": 0.08, "N_TRAIN": 3000, "N_CAL": 1000, "N_TEST": 2000, "N_POOL": 30000}
